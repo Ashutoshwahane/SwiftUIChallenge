@@ -1,7 +1,7 @@
 # SwiftUIChallenge
 WeSplit is an iOS app to split your bill with friends. like in Restaurant split the bill equally.
 
-## support our work and do Star this Repository Or Fork this Repository
+## do Star this Repository Or Fork this Repository
 
 ## Built With 🛠
 - [SwiftUi](https://developer.apple.com/xcode/swiftui/)
